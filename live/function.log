@@ -1,4 +1,4 @@
-2026-03-23 11:37:01,177 - ERROR - url: https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 404, message='Not Found', url='https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u'
-2026-03-23 11:37:01,275 - ERROR - url: https://d.kstore.dev/download/15114/TVSolo.txt 失败❌, Error: 404, message='', url='https://d.kstore.dev/download/15114/TVSolo.txt'
-2026-03-23 11:37:01,782 - ERROR - url: http://xo.html-5.me//i/9918352.txt 失败❌, Error: 404, message='Not Found', url='http://xo.html-5.me//i/9918352.txt'
-2026-03-23 11:37:11,066 - ERROR - url: https://fy.188766.xyz/?url=https%3A%2F%2Flive.tangshop.top%3A35455&mishitong=true&mima=mianfeidehaimaiqian&json=true 失败❌, Error: Cannot connect to host fy.188766.xyz:443 ssl:default [Temporary failure in name resolution]
+2026-03-25 11:31:25,634 - ERROR - url: https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 404, message='Not Found', url='https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u'
+2026-03-25 11:31:25,794 - ERROR - url: https://d.kstore.dev/download/15114/TVSolo.txt 失败❌, Error: 404, message='', url='https://d.kstore.dev/download/15114/TVSolo.txt'
+2026-03-25 11:31:26,340 - ERROR - url: http://xo.html-5.me//i/9918352.txt 失败❌, Error: 404, message='Not Found', url='http://xo.html-5.me//i/9918352.txt'
+2026-03-25 11:31:35,635 - ERROR - url: https://fy.188766.xyz/?url=https%3A%2F%2Flive.tangshop.top%3A35455&mishitong=true&mima=mianfeidehaimaiqian&json=true 失败❌, Error: Cannot connect to host fy.188766.xyz:443 ssl:default [Temporary failure in name resolution]
