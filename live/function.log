@@ -1,5 +1,5 @@
-2026-07-21 12:00:35,715 - ERROR - url: https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 404, message='Not Found', url='https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u'
-2026-07-21 12:00:35,832 - ERROR - url: https://d.kstore.dev/download/15114/TVSolo.txt 失败❌, Error: 404, message='Not Found', url='https://d.kstore.dev/download/15114/TVSolo.txt'
-2026-07-21 12:00:36,135 - ERROR - url: http://xo.html-5.me//i/9918352.txt 失败❌, Error: 404, message='Not Found', url='http://xo.html-5.me//i/9918352.txt'
-2026-07-21 12:00:36,811 - ERROR - url: https://gitee.com/jin-xueling/lingl/raw/master/hu.txt 失败❌, Error: 423, message='Locked', url='https://gitee.com/jin-xueling/lingl/raw/master/hu.txt'
-2026-07-21 12:00:45,619 - ERROR - url: https://fy.188766.xyz/?url=https%3A%2F%2Flive.tangshop.top%3A35455&mishitong=true&mima=mianfeidehaimaiqian&json=true 失败❌, Error: Cannot connect to host fy.188766.xyz:443 ssl:default [Temporary failure in name resolution]
+2026-07-23 11:59:32,765 - ERROR - url: https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 404, message='Not Found', url='https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u'
+2026-07-23 11:59:32,979 - ERROR - url: https://d.kstore.dev/download/15114/TVSolo.txt 失败❌, Error: 404, message='Not Found', url='https://d.kstore.dev/download/15114/TVSolo.txt'
+2026-07-23 11:59:33,536 - ERROR - url: http://xo.html-5.me//i/9918352.txt 失败❌, Error: 404, message='Not Found', url='http://xo.html-5.me//i/9918352.txt'
+2026-07-23 11:59:35,419 - ERROR - url: https://gitee.com/jin-xueling/lingl/raw/master/hu.txt 失败❌, Error: 423, message='Locked', url='https://gitee.com/jin-xueling/lingl/raw/master/hu.txt'
+2026-07-23 11:59:42,752 - ERROR - url: https://fy.188766.xyz/?url=https%3A%2F%2Flive.tangshop.top%3A35455&mishitong=true&mima=mianfeidehaimaiqian&json=true 失败❌, Error: Cannot connect to host fy.188766.xyz:443 ssl:default [Temporary failure in name resolution]
